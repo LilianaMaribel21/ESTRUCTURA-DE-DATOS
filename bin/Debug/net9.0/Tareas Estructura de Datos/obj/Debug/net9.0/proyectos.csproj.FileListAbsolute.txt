@@ -1,0 +1,14 @@
+C:\Users\User\Documents\Estructura de Datos\Tareas Estructura de Datos\bin\Debug\net9.0\proyectos.exe
+C:\Users\User\Documents\Estructura de Datos\Tareas Estructura de Datos\bin\Debug\net9.0\proyectos.deps.json
+C:\Users\User\Documents\Estructura de Datos\Tareas Estructura de Datos\bin\Debug\net9.0\proyectos.runtimeconfig.json
+C:\Users\User\Documents\Estructura de Datos\Tareas Estructura de Datos\bin\Debug\net9.0\proyectos.dll
+C:\Users\User\Documents\Estructura de Datos\Tareas Estructura de Datos\bin\Debug\net9.0\proyectos.pdb
+C:\Users\User\Documents\Estructura de Datos\Tareas Estructura de Datos\obj\Debug\net9.0\proyectos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Estructura de Datos\Tareas Estructura de Datos\obj\Debug\net9.0\proyectos.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Estructura de Datos\Tareas Estructura de Datos\obj\Debug\net9.0\proyectos.AssemblyInfo.cs
+C:\Users\User\Documents\Estructura de Datos\Tareas Estructura de Datos\obj\Debug\net9.0\proyectos.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Estructura de Datos\Tareas Estructura de Datos\obj\Debug\net9.0\proyectos.dll
+C:\Users\User\Documents\Estructura de Datos\Tareas Estructura de Datos\obj\Debug\net9.0\refint\proyectos.dll
+C:\Users\User\Documents\Estructura de Datos\Tareas Estructura de Datos\obj\Debug\net9.0\proyectos.pdb
+C:\Users\User\Documents\Estructura de Datos\Tareas Estructura de Datos\obj\Debug\net9.0\proyectos.genruntimeconfig.cache
+C:\Users\User\Documents\Estructura de Datos\Tareas Estructura de Datos\obj\Debug\net9.0\ref\proyectos.dll
